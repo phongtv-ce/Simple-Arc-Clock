@@ -3,8 +3,8 @@
 A clone of this clock: https://github.com/phobi4n/Simple-Arc-Clock (Thanks Mark!)
 
 Function has been adding:
-	second-arc
-	turn on or off shadow
+	```second-arc
+	turn on or off shadow```
 
 Simple desktop clock that is easy to configure. Left mouse drags the clock around the desktop, right mouse opens menu.
 
